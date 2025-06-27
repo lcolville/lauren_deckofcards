@@ -1,2 +1,4 @@
 django==3.2.14
 django-cors-headers
+
+I'm adding more requirements 
